@@ -307,7 +307,7 @@ class Example(Record):
 ## End-to-end encryption
 
 [End-to-end encryption](https://pulsar.apache.org/docs/en/next/cookbooks-encryption/#docsNav) allows applications to encrypt messages at producers and decrypt messages at consumers.
-
+ 
 ### Configuration
 
 To use the end-to-end encryption feature in the Python client, you need to configure `publicKeyPath` and `privateKeyPath` for both producer and consumer.
