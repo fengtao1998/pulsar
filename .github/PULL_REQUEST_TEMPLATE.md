@@ -67,8 +67,8 @@ This change added tests and can be verified as follows:
   - Anything that affects deployment: (yes / no / don't know)
 
 ### Documentation
-
-  - Does this pull request introduce a new feature? (yes / no)
-  - If yes, how is the feature documented? (not applicable / docs / JavaDocs / not documented)
-  - If a feature is not applicable for documentation, explain why?
-  - If a feature is not documented yet in this PR, please create a followup issue for adding the documentation
+  
+Need to update docs? Check the box below:
+- [ ] `doc-required` (if the answer is yes)
+- [ ] `no-need-doc` (if the answer is no)
+- [ ] `doc` (if this PR contains only doc changes)
